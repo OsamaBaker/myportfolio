@@ -48,7 +48,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href="https://twitter.com/OsamaBaker10"
                   id="tooltip475038074"
                   target="_blank"
                 >
@@ -62,7 +62,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://web.facebook.com/osama.qadoomy/"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -76,7 +76,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://dribbble.com/osamagraphics"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/OsamaBaker"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -112,7 +112,7 @@ class SimpleFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                    Creative Tim
+                    Osama Baker
                   </a>
                   .
                 </div>
@@ -121,15 +121,15 @@ class SimpleFooter extends React.Component {
                 <Nav className=" nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
+                      href="https://web.facebook.com/osama.qadoomy/"
                       target="_blank"
                     >
-                      Creative Tim
+                      Osama Baker
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://web.facebook.com/osama.qadoomy/"
                       target="_blank"
                     >
                       About Us
